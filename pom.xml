@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.tsg.ns.dev</groupId>
-  <artifactId>tsg-ns-dev</artifactId>
+  <groupId>com.tsg.ns.wsdl</groupId>
+  <artifactId>tsg-ns-wsdl</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ns-ts-wsdl</name>
 	<dependencies>
@@ -21,6 +21,13 @@
 			<version>2.3.3</version>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub tsg-ns-dev Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/tsg-ns-dev/tsg-ns-wsdl</url>
+   </repository>
+</distributionManagement>
 	<build>
     <plugins>
       <plugin>
@@ -44,5 +51,4 @@
 	
 	    </plugins>
 	</build>
-  
-</project>
+	</project>
