@@ -3,10 +3,10 @@ package tsg.ns.wsdl.coop;
 
 import java.util.ArrayList;
 import java.util.List;
-import jakarta.xml.bind.annotation.XmlAccessType;
-import jakarta.xml.bind.annotation.XmlAccessorType;
-import jakarta.xml.bind.annotation.XmlElement;
-import jakarta.xml.bind.annotation.XmlType;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlType;
 
 
 /**
@@ -1050,7 +1050,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accBookRevRecForecastRule property.
      * 
      * <p>
@@ -1079,7 +1079,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accountingBook property.
      * 
      * <p>
@@ -1108,7 +1108,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accountingBookAmortization property.
      * 
      * <p>
@@ -1137,7 +1137,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accountingBookCreatePlansOn property.
      * 
      * <p>
@@ -1166,7 +1166,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accountingBookRevRecRule property.
      * 
      * <p>
@@ -1195,7 +1195,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the accountingBookRevRecSchedule property.
      * 
      * <p>
@@ -1224,7 +1224,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the allowedShippingMethod property.
      * 
      * <p>
@@ -1253,7 +1253,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the alternateDemandSourceItem property.
      * 
      * <p>
@@ -1282,7 +1282,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the assetAccount property.
      * 
      * <p>
@@ -1311,7 +1311,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the atpLeadTime property.
      * 
      * <p>
@@ -1340,7 +1340,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the atpMethod property.
      * 
      * <p>
@@ -1369,7 +1369,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the autoLeadTime property.
      * 
      * <p>
@@ -1398,7 +1398,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the autoPreferredStockLevel property.
      * 
      * <p>
@@ -1427,7 +1427,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the autoReorderPoint property.
      * 
      * <p>
@@ -1456,7 +1456,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the availableToPartners property.
      * 
      * <p>
@@ -1485,7 +1485,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the averageCost property.
      * 
      * <p>
@@ -1514,7 +1514,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the backwardConsumptionDays property.
      * 
      * <p>
@@ -1543,7 +1543,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the basePrice property.
      * 
      * <p>
@@ -1572,7 +1572,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the billExchRateVarianceAcct property.
      * 
      * <p>
@@ -1601,7 +1601,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the billPriceVarianceAcct property.
      * 
      * <p>
@@ -1630,7 +1630,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the billQtyVarianceAcct property.
      * 
      * <p>
@@ -1659,7 +1659,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the binNumber property.
      * 
      * <p>
@@ -1688,7 +1688,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the binOnHandAvail property.
      * 
      * <p>
@@ -1717,7 +1717,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the binOnHandCount property.
      * 
      * <p>
@@ -1746,7 +1746,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the bomQuantity property.
      * 
      * <p>
@@ -1775,7 +1775,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the buildEntireAssembly property.
      * 
      * <p>
@@ -1804,7 +1804,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the buildTime property.
      * 
      * <p>
@@ -1833,7 +1833,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the buildTimeLotSize property.
      * 
      * <p>
@@ -1862,7 +1862,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the buyItNowPrice property.
      * 
      * <p>
@@ -1891,7 +1891,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the category property.
      * 
      * <p>
@@ -1920,7 +1920,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the categoryPreferred property.
      * 
      * <p>
@@ -1949,7 +1949,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the clazz property.
      * 
      * <p>
@@ -1978,7 +1978,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the componentYield property.
      * 
      * <p>
@@ -2007,7 +2007,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the consumptionUnit property.
      * 
      * <p>
@@ -2036,7 +2036,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the contingentRevenueHandling property.
      * 
      * <p>
@@ -2065,7 +2065,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the conversionRate property.
      * 
      * <p>
@@ -2094,7 +2094,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the copyDescription property.
      * 
      * <p>
@@ -2123,7 +2123,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the correlatedItem property.
      * 
      * <p>
@@ -2152,7 +2152,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the correlatedItemCorrelation property.
      * 
      * <p>
@@ -2181,7 +2181,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the correlatedItemCount property.
      * 
      * <p>
@@ -2210,7 +2210,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the correlatedItemLift property.
      * 
      * <p>
@@ -2239,7 +2239,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the correlatedItemPurchaseRate property.
      * 
      * <p>
@@ -2268,7 +2268,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the cost property.
      * 
      * <p>
@@ -2297,7 +2297,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the costAccountingStatus property.
      * 
      * <p>
@@ -2326,7 +2326,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the costCategory property.
      * 
      * <p>
@@ -2355,7 +2355,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the costEstimate property.
      * 
      * <p>
@@ -2384,7 +2384,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the costEstimateType property.
      * 
      * <p>
@@ -2413,7 +2413,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the costingMethod property.
      * 
      * <p>
@@ -2442,7 +2442,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the countryOfManufacture property.
      * 
      * <p>
@@ -2471,7 +2471,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the created property.
      * 
      * <p>
@@ -2500,7 +2500,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the createJob property.
      * 
      * <p>
@@ -2529,7 +2529,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the createRevenuePlansOn property.
      * 
      * <p>
@@ -2558,7 +2558,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the custReturnVarianceAccount property.
      * 
      * <p>
@@ -2587,7 +2587,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the dateViewed property.
      * 
      * <p>
@@ -2616,7 +2616,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the daysBeforeExpiration property.
      * 
      * <p>
@@ -2645,7 +2645,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the defaultReturnCost property.
      * 
      * <p>
@@ -2674,7 +2674,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the defaultShippingMethod property.
      * 
      * <p>
@@ -2703,7 +2703,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the deferredExpenseAccount property.
      * 
      * <p>
@@ -2732,7 +2732,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the deferredRevenueAccount property.
      * 
      * <p>
@@ -2761,7 +2761,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the deferRevRec property.
      * 
      * <p>
@@ -2790,7 +2790,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the demandModifier property.
      * 
      * <p>
@@ -2819,7 +2819,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the demandSource property.
      * 
      * <p>
@@ -2848,7 +2848,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the demandTimeFence property.
      * 
      * <p>
@@ -2877,7 +2877,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the department property.
      * 
      * <p>
@@ -2906,7 +2906,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the departmentnohierarchy property.
      * 
      * <p>
@@ -2935,7 +2935,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the directRevenuePosting property.
      * 
      * <p>
@@ -2964,7 +2964,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the displayIneBayStore property.
      * 
      * <p>
@@ -2993,7 +2993,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the displayName property.
      * 
      * <p>
@@ -3022,7 +3022,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the distributionCategory property.
      * 
      * <p>
@@ -3051,7 +3051,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the distributionNetwork property.
      * 
      * <p>
@@ -3080,7 +3080,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the dontShowPrice property.
      * 
      * <p>
@@ -3109,7 +3109,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the eBayItemDescription property.
      * 
      * <p>
@@ -3138,7 +3138,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the eBayItemSubtitle property.
      * 
      * <p>
@@ -3167,7 +3167,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the eBayItemTitle property.
      * 
      * <p>
@@ -3196,7 +3196,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the ebayRelistingOption property.
      * 
      * <p>
@@ -3225,7 +3225,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the effectiveBomControl property.
      * 
      * <p>
@@ -3254,7 +3254,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the effectiveDate property.
      * 
      * <p>
@@ -3283,7 +3283,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the effectiveRevision property.
      * 
      * <p>
@@ -3312,7 +3312,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the enableCatchWeight property.
      * 
      * <p>
@@ -3341,7 +3341,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the endAuctionsWhenOutOfStock property.
      * 
      * <p>
@@ -3370,7 +3370,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the excludeFromSitemap property.
      * 
      * <p>
@@ -3399,7 +3399,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the expenseAccount property.
      * 
      * <p>
@@ -3428,7 +3428,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the externalId property.
      * 
      * <p>
@@ -3457,7 +3457,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the featuredDescription property.
      * 
      * <p>
@@ -3486,7 +3486,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the feedDescription property.
      * 
      * <p>
@@ -3515,7 +3515,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the feedName property.
      * 
      * <p>
@@ -3544,7 +3544,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fixedBuildTime property.
      * 
      * <p>
@@ -3573,7 +3573,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fixedLotSize property.
      * 
      * <p>
@@ -3602,7 +3602,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the forwardConsumptionDays property.
      * 
      * <p>
@@ -3631,7 +3631,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fraudRisk property.
      * 
      * <p>
@@ -3660,7 +3660,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the froogleProductFeed property.
      * 
      * <p>
@@ -3689,7 +3689,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the futureHorizon property.
      * 
      * <p>
@@ -3718,7 +3718,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fxCost property.
      * 
      * <p>
@@ -3747,7 +3747,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the gainLossAccount property.
      * 
      * <p>
@@ -3776,7 +3776,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the generateAccruals property.
      * 
      * <p>
@@ -3805,7 +3805,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertAuthCode property.
      * 
      * <p>
@@ -3834,7 +3834,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertEmail property.
      * 
      * <p>
@@ -3863,7 +3863,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertExpirationDate property.
      * 
      * <p>
@@ -3892,7 +3892,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertFrom property.
      * 
      * <p>
@@ -3921,7 +3921,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertMessage property.
      * 
      * <p>
@@ -3950,7 +3950,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertOriginalAmount property.
      * 
      * <p>
@@ -3979,7 +3979,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the giftCertRecipient property.
      * 
      * <p>
@@ -4008,7 +4008,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the hierarchyNode property.
      * 
      * <p>
@@ -4037,7 +4037,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the hierarchyVersion property.
      * 
      * <p>
@@ -4066,7 +4066,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the hits property.
      * 
      * <p>
@@ -4095,7 +4095,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the imageUrl property.
      * 
      * <p>
@@ -4124,7 +4124,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the includeChildren property.
      * 
      * <p>
@@ -4153,7 +4153,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the incomeAccount property.
      * 
      * <p>
@@ -4182,7 +4182,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the intercoDefRevAccount property.
      * 
      * <p>
@@ -4211,7 +4211,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the intercoExpenseAccount property.
      * 
      * <p>
@@ -4240,7 +4240,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the intercoIncomeAccount property.
      * 
      * <p>
@@ -4269,7 +4269,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the internalId property.
      * 
      * <p>
@@ -4298,7 +4298,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the inventoryLocation property.
      * 
      * <p>
@@ -4327,7 +4327,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the invtClassification property.
      * 
      * <p>
@@ -4356,7 +4356,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the invtCountInterval property.
      * 
      * <p>
@@ -4385,7 +4385,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isAvailable property.
      * 
      * <p>
@@ -4414,7 +4414,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isDropShipItem property.
      * 
      * <p>
@@ -4443,7 +4443,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isFulfillable property.
      * 
      * <p>
@@ -4472,7 +4472,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isGcoCompliant property.
      * 
      * <p>
@@ -4501,7 +4501,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isInactive property.
      * 
      * <p>
@@ -4530,7 +4530,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isLotItem property.
      * 
      * <p>
@@ -4559,7 +4559,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isOnline property.
      * 
      * <p>
@@ -4588,7 +4588,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isSerialItem property.
      * 
      * <p>
@@ -4617,7 +4617,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isSpecialOrderItem property.
      * 
      * <p>
@@ -4646,7 +4646,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isSpecialWorkOrderItem property.
      * 
      * <p>
@@ -4675,7 +4675,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isStorePickupAllowed property.
      * 
      * <p>
@@ -4704,7 +4704,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the issueProduct property.
      * 
      * <p>
@@ -4733,7 +4733,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isTaxable property.
      * 
      * <p>
@@ -4762,7 +4762,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isVsoeBundle property.
      * 
      * <p>
@@ -4791,7 +4791,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the isWip property.
      * 
      * <p>
@@ -4820,7 +4820,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the itemId property.
      * 
      * <p>
@@ -4849,7 +4849,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the itemRevenueCategory property.
      * 
      * <p>
@@ -4878,7 +4878,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the itemUrl property.
      * 
      * <p>
@@ -4907,7 +4907,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the lastInvtCountDate property.
      * 
      * <p>
@@ -4936,7 +4936,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the lastPurchasePrice property.
      * 
      * <p>
@@ -4965,7 +4965,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the lastQuantityAvailableChange property.
      * 
      * <p>
@@ -4994,7 +4994,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the leadTime property.
      * 
      * <p>
@@ -5023,7 +5023,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the liabilityAccount property.
      * 
      * <p>
@@ -5052,7 +5052,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the listingDuration property.
      * 
      * <p>
@@ -5081,7 +5081,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the location property.
      * 
      * <p>
@@ -5110,7 +5110,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationAllowStorePickup property.
      * 
      * <p>
@@ -5139,7 +5139,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationAtpLeadTime property.
      * 
      * <p>
@@ -5168,7 +5168,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationAverageCost property.
      * 
      * <p>
@@ -5197,7 +5197,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationBinQuantityAvailable property.
      * 
      * <p>
@@ -5226,7 +5226,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationBuildTime property.
      * 
      * <p>
@@ -5255,7 +5255,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationCost property.
      * 
      * <p>
@@ -5284,7 +5284,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationCostAccountingStatus property.
      * 
      * <p>
@@ -5313,7 +5313,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationDefaultReturnCost property.
      * 
      * <p>
@@ -5342,7 +5342,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationDemandSource property.
      * 
      * <p>
@@ -5371,7 +5371,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationDemandTimeFence property.
      * 
      * <p>
@@ -5400,7 +5400,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationFixedLotSize property.
      * 
      * <p>
@@ -5429,7 +5429,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationInventoryCostTemplate property.
      * 
      * <p>
@@ -5458,7 +5458,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationInvtClassification property.
      * 
      * <p>
@@ -5487,7 +5487,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationInvtCountInterval property.
      * 
      * <p>
@@ -5516,7 +5516,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationLastInvtCountDate property.
      * 
      * <p>
@@ -5545,7 +5545,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationLeadTime property.
      * 
      * <p>
@@ -5574,7 +5574,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationNextInvtCountDate property.
      * 
      * <p>
@@ -5603,7 +5603,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationPeriodicLotSizeDays property.
      * 
      * <p>
@@ -5632,7 +5632,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationPeriodicLotSizeType property.
      * 
      * <p>
@@ -5661,7 +5661,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationPreferredStockLevel property.
      * 
      * <p>
@@ -5690,7 +5690,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQtyAvailForStorePickup property.
      * 
      * <p>
@@ -5719,7 +5719,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityAvailable property.
      * 
      * <p>
@@ -5748,7 +5748,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityBackOrdered property.
      * 
      * <p>
@@ -5777,7 +5777,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityCommitted property.
      * 
      * <p>
@@ -5806,7 +5806,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityInTransit property.
      * 
      * <p>
@@ -5835,7 +5835,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityOnHand property.
      * 
      * <p>
@@ -5864,7 +5864,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationQuantityOnOrder property.
      * 
      * <p>
@@ -5893,7 +5893,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationReOrderPoint property.
      * 
      * <p>
@@ -5922,7 +5922,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationRescheduleInDays property.
      * 
      * <p>
@@ -5951,7 +5951,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationRescheduleOutDays property.
      * 
      * <p>
@@ -5980,7 +5980,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationSafetyStockLevel property.
      * 
      * <p>
@@ -6009,7 +6009,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationStorePickupBufferStock property.
      * 
      * <p>
@@ -6038,7 +6038,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationSupplyLotSizingMethod property.
      * 
      * <p>
@@ -6067,7 +6067,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationSupplyTimeFence property.
      * 
      * <p>
@@ -6096,7 +6096,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationSupplyType property.
      * 
      * <p>
@@ -6125,7 +6125,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locationTotalValue property.
      * 
      * <p>
@@ -6154,7 +6154,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locBackwardConsumptionDays property.
      * 
      * <p>
@@ -6183,7 +6183,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the locForwardConsumptionDays property.
      * 
      * <p>
@@ -6212,7 +6212,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the lowerWarningLimit property.
      * 
      * <p>
@@ -6241,7 +6241,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturer property.
      * 
      * <p>
@@ -6270,7 +6270,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerAddr1 property.
      * 
      * <p>
@@ -6299,7 +6299,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerCity property.
      * 
      * <p>
@@ -6328,7 +6328,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerState property.
      * 
      * <p>
@@ -6357,7 +6357,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerTariff property.
      * 
      * <p>
@@ -6386,7 +6386,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerTaxId property.
      * 
      * <p>
@@ -6415,7 +6415,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturerZip property.
      * 
      * <p>
@@ -6444,7 +6444,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the manufacturingChargeItem property.
      * 
      * <p>
@@ -6473,7 +6473,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the matchBillToReceipt property.
      * 
      * <p>
@@ -6502,7 +6502,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the maximumQuantity property.
      * 
      * <p>
@@ -6531,7 +6531,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the memberItem property.
      * 
      * <p>
@@ -6560,7 +6560,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the memberQuantity property.
      * 
      * <p>
@@ -6589,7 +6589,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the metaTagHtml property.
      * 
      * <p>
@@ -6618,7 +6618,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the minimumQuantity property.
      * 
      * <p>
@@ -6647,7 +6647,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the modified property.
      * 
      * <p>
@@ -6676,7 +6676,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the mossApplies property.
      * 
      * <p>
@@ -6705,7 +6705,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the mpn property.
      * 
      * <p>
@@ -6734,7 +6734,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the multManufactureAddr property.
      * 
      * <p>
@@ -6763,7 +6763,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the nextagCategory property.
      * 
      * <p>
@@ -6792,7 +6792,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the nextagProductFeed property.
      * 
      * <p>
@@ -6821,7 +6821,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the nextInvtCountDate property.
      * 
      * <p>
@@ -6850,7 +6850,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the noPriceMessage property.
      * 
      * <p>
@@ -6879,7 +6879,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the numActiveListings property.
      * 
      * <p>
@@ -6908,7 +6908,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the numberAllowedDownloads property.
      * 
      * <p>
@@ -6937,7 +6937,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the numCurrentlyListed property.
      * 
      * <p>
@@ -6966,7 +6966,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the obsoleteDate property.
      * 
      * <p>
@@ -6995,7 +6995,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the obsoleteRevision property.
      * 
      * <p>
@@ -7024,7 +7024,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the offerSupport property.
      * 
      * <p>
@@ -7053,7 +7053,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the onlineCustomerPrice property.
      * 
      * <p>
@@ -7082,7 +7082,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the onlinePrice property.
      * 
      * <p>
@@ -7111,7 +7111,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the onSpecial property.
      * 
      * <p>
@@ -7140,7 +7140,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the otherPrices property.
      * 
      * <p>
@@ -7169,7 +7169,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the otherVendor property.
      * 
      * <p>
@@ -7198,7 +7198,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the outOfStockBehavior property.
      * 
      * <p>
@@ -7227,7 +7227,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the outOfStockMessage property.
      * 
      * <p>
@@ -7256,7 +7256,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the overallQuantityPricingType property.
      * 
      * <p>
@@ -7285,7 +7285,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the overheadType property.
      * 
      * <p>
@@ -7314,7 +7314,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the pageTitle property.
      * 
      * <p>
@@ -7343,7 +7343,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the parent property.
      * 
      * <p>
@@ -7372,7 +7372,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the periodicLotSizeDays property.
      * 
      * <p>
@@ -7401,7 +7401,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the periodicLotSizeType property.
      * 
      * <p>
@@ -7430,7 +7430,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the planningItemCategory property.
      * 
      * <p>
@@ -7459,7 +7459,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the preferenceCriterion property.
      * 
      * <p>
@@ -7488,7 +7488,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the preferredBin property.
      * 
      * <p>
@@ -7517,7 +7517,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the preferredLocation property.
      * 
      * <p>
@@ -7546,7 +7546,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the preferredStockLevel property.
      * 
      * <p>
@@ -7575,7 +7575,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the preferredStockLevelDays property.
      * 
      * <p>
@@ -7604,7 +7604,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the pricesIncludeTax property.
      * 
      * <p>
@@ -7633,7 +7633,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the pricingGroup property.
      * 
      * <p>
@@ -7662,7 +7662,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the primaryCategory property.
      * 
      * <p>
@@ -7691,7 +7691,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the prodPriceVarianceAcct property.
      * 
      * <p>
@@ -7720,7 +7720,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the prodQtyVarianceAcct property.
      * 
      * <p>
@@ -7749,7 +7749,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchaseDescription property.
      * 
      * <p>
@@ -7778,7 +7778,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchaseOrderAmount property.
      * 
      * <p>
@@ -7807,7 +7807,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchaseOrderQuantity property.
      * 
      * <p>
@@ -7836,7 +7836,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchaseOrderQuantityDiff property.
      * 
      * <p>
@@ -7865,7 +7865,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchasePriceVarianceAcct property.
      * 
      * <p>
@@ -7894,7 +7894,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the purchaseUnit property.
      * 
      * <p>
@@ -7923,7 +7923,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityAvailable property.
      * 
      * <p>
@@ -7952,7 +7952,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityBackOrdered property.
      * 
      * <p>
@@ -7981,7 +7981,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityCommitted property.
      * 
      * <p>
@@ -8010,7 +8010,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityOnHand property.
      * 
      * <p>
@@ -8039,7 +8039,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityOnOrder property.
      * 
      * <p>
@@ -8068,7 +8068,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the quantityPricingSchedule property.
      * 
      * <p>
@@ -8097,7 +8097,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the receiptAmount property.
      * 
      * <p>
@@ -8126,7 +8126,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the receiptQuantity property.
      * 
      * <p>
@@ -8155,7 +8155,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the receiptQuantityDiff property.
      * 
      * <p>
@@ -8184,7 +8184,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the reorderMultiple property.
      * 
      * <p>
@@ -8213,7 +8213,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the reOrderPoint property.
      * 
      * <p>
@@ -8242,7 +8242,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the rescheduleInDays property.
      * 
      * <p>
@@ -8271,7 +8271,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the rescheduleOutDays property.
      * 
      * <p>
@@ -8300,7 +8300,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the reservePrice property.
      * 
      * <p>
@@ -8329,7 +8329,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the revenueAllocationGroup property.
      * 
      * <p>
@@ -8358,7 +8358,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the revenueRecognitionRule property.
      * 
      * <p>
@@ -8387,7 +8387,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the revRecForecastRule property.
      * 
      * <p>
@@ -8416,7 +8416,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the revReclassFXAccount property.
      * 
      * <p>
@@ -8445,7 +8445,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the revRecSchedule property.
      * 
      * <p>
@@ -8474,7 +8474,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the roundUpAsComponent property.
      * 
      * <p>
@@ -8503,7 +8503,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the safetyStockLevel property.
      * 
      * <p>
@@ -8532,7 +8532,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the safetyStockLevelDays property.
      * 
      * <p>
@@ -8561,7 +8561,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the salesDescription property.
      * 
      * <p>
@@ -8590,7 +8590,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the salesTaxCode property.
      * 
      * <p>
@@ -8619,7 +8619,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the saleUnit property.
      * 
      * <p>
@@ -8648,7 +8648,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the sameAsPrimaryBookAmortization property.
      * 
      * <p>
@@ -8677,7 +8677,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the sameAsPrimaryBookRevRec property.
      * 
      * <p>
@@ -8706,7 +8706,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the scheduleBCode property.
      * 
      * <p>
@@ -8735,7 +8735,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the scheduleBNumber property.
      * 
      * <p>
@@ -8764,7 +8764,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the scheduleBQuantity property.
      * 
      * <p>
@@ -8793,7 +8793,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the scrapAcct property.
      * 
      * <p>
@@ -8822,7 +8822,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the searchKeywords property.
      * 
      * <p>
@@ -8851,7 +8851,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the seasonalDemand property.
      * 
      * <p>
@@ -8880,7 +8880,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the secondaryConsumptionUnit property.
      * 
      * <p>
@@ -8909,7 +8909,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the secondaryPurchaseUnit property.
      * 
      * <p>
@@ -8938,7 +8938,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the secondarySaleUnit property.
      * 
      * <p>
@@ -8967,7 +8967,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the secondaryStockUnit property.
      * 
      * <p>
@@ -8996,7 +8996,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the secondaryUnitsType property.
      * 
      * <p>
@@ -9025,7 +9025,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the sellOnEBay property.
      * 
      * <p>
@@ -9054,7 +9054,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the serialNumber property.
      * 
      * <p>
@@ -9083,7 +9083,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the serialNumberLocation property.
      * 
      * <p>
@@ -9112,7 +9112,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shipIndividually property.
      * 
      * <p>
@@ -9141,7 +9141,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shipPackage property.
      * 
      * <p>
@@ -9170,7 +9170,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shippingCarrier property.
      * 
      * <p>
@@ -9199,7 +9199,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shippingRate property.
      * 
      * <p>
@@ -9228,7 +9228,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shoppingDotComCategory property.
      * 
      * <p>
@@ -9257,7 +9257,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shoppingProductFeed property.
      * 
      * <p>
@@ -9286,7 +9286,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shopzillaCategoryId property.
      * 
      * <p>
@@ -9315,7 +9315,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the shopzillaProductFeed property.
      * 
      * <p>
@@ -9344,7 +9344,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the sitemapPriority property.
      * 
      * <p>
@@ -9373,7 +9373,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the softDescriptor property.
      * 
      * <p>
@@ -9402,7 +9402,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the startingPrice property.
      * 
      * <p>
@@ -9431,7 +9431,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the stockDescription property.
      * 
      * <p>
@@ -9460,7 +9460,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the stockUnit property.
      * 
      * <p>
@@ -9489,7 +9489,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the storeDescription property.
      * 
      * <p>
@@ -9518,7 +9518,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the storeDetailedDescription property.
      * 
      * <p>
@@ -9547,7 +9547,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the storeDisplayImage property.
      * 
      * <p>
@@ -9576,7 +9576,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the storeDisplayName property.
      * 
      * <p>
@@ -9605,7 +9605,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the storeDisplayThumbnail property.
      * 
      * <p>
@@ -9634,7 +9634,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the subsidiary property.
      * 
      * <p>
@@ -9663,7 +9663,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the subType property.
      * 
      * <p>
@@ -9692,7 +9692,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the supplyLotSizingMethod property.
      * 
      * <p>
@@ -9721,7 +9721,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the supplyReplenishmentMethod property.
      * 
      * <p>
@@ -9750,7 +9750,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the supplyTimeFence property.
      * 
      * <p>
@@ -9779,7 +9779,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the supplyType property.
      * 
      * <p>
@@ -9808,7 +9808,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the taxSchedule property.
      * 
      * <p>
@@ -9837,7 +9837,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the thumbNailUrl property.
      * 
      * <p>
@@ -9866,7 +9866,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the totalValue property.
      * 
      * <p>
@@ -9895,7 +9895,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the trackLandedCost property.
      * 
      * <p>
@@ -9924,7 +9924,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the transferPrice property.
      * 
      * <p>
@@ -9953,7 +9953,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the type property.
      * 
      * <p>
@@ -9982,7 +9982,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the unbuildVarianceAccount property.
      * 
      * <p>
@@ -10011,7 +10011,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the unitsType property.
      * 
      * <p>
@@ -10040,7 +10040,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the upcCode property.
      * 
      * <p>
@@ -10069,7 +10069,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the upperWarningLimit property.
      * 
      * <p>
@@ -10098,7 +10098,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the urlComponent property.
      * 
      * <p>
@@ -10127,7 +10127,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the useBins property.
      * 
      * <p>
@@ -10156,7 +10156,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the useComponentYield property.
      * 
      * <p>
@@ -10185,7 +10185,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the useMarginalRates property.
      * 
      * <p>
@@ -10214,7 +10214,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendor property.
      * 
      * <p>
@@ -10243,7 +10243,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorCode property.
      * 
      * <p>
@@ -10272,7 +10272,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorCost property.
      * 
      * <p>
@@ -10301,7 +10301,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorCostEntered property.
      * 
      * <p>
@@ -10330,7 +10330,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorName property.
      * 
      * <p>
@@ -10359,7 +10359,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorPriceCurrency property.
      * 
      * <p>
@@ -10388,7 +10388,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendorSchedule property.
      * 
      * <p>
@@ -10417,7 +10417,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vendReturnVarianceAccount property.
      * 
      * <p>
@@ -10446,7 +10446,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vsoeDeferral property.
      * 
      * <p>
@@ -10475,7 +10475,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vsoeDelivered property.
      * 
      * <p>
@@ -10504,7 +10504,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vsoePermitDiscount property.
      * 
      * <p>
@@ -10533,7 +10533,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vsoePrice property.
      * 
      * <p>
@@ -10562,7 +10562,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the vsoeSopGroup property.
      * 
      * <p>
@@ -10591,7 +10591,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the webSite property.
      * 
      * <p>
@@ -10620,7 +10620,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the weight property.
      * 
      * <p>
@@ -10649,7 +10649,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the weightUnit property.
      * 
      * <p>
@@ -10678,7 +10678,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the wipAcct property.
      * 
      * <p>
@@ -10707,7 +10707,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the wipVarianceAcct property.
      * 
      * <p>
@@ -10736,7 +10736,7 @@ public class ItemSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the yahooProductFeed property.
      * 
      * <p>

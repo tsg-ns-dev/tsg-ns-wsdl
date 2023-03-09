@@ -3,9 +3,9 @@ package tsg.ns.wsdl.coop;
 
 import java.util.ArrayList;
 import java.util.List;
-import jakarta.xml.bind.annotation.XmlAccessType;
-import jakarta.xml.bind.annotation.XmlAccessorType;
-import jakarta.xml.bind.annotation.XmlType;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlType;
 
 
 /**
@@ -73,7 +73,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the amount property.
      * 
      * <p>
@@ -102,7 +102,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the amountPaid property.
      * 
      * <p>
@@ -131,7 +131,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the amountRemaining property.
      * 
      * <p>
@@ -160,7 +160,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the daysOverdue property.
      * 
      * <p>
@@ -189,7 +189,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the dueDate property.
      * 
      * <p>
@@ -218,7 +218,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fxAmount property.
      * 
      * <p>
@@ -247,7 +247,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fxAmountPaid property.
      * 
      * <p>
@@ -276,7 +276,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the fxAmountRemaining property.
      * 
      * <p>
@@ -305,7 +305,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the installmentNumber property.
      * 
      * <p>
@@ -334,7 +334,7 @@ public class InstallmentSearchRowBasic
      * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
-     * returned list will be present inside the Jakarta XML Binding object.
+     * returned list will be present inside the JAXB object.
      * This is why there is not a <CODE>set</CODE> method for the status property.
      * 
      * <p>
