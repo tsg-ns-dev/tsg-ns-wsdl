@@ -1,0 +1,13 @@
+<jxb:bindings 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:jxb="https://jakarta.ee/xml/ns/jaxb"
+    version="3.0">
+
+<!--  <jxb:bindings schemaLocation=""></jxb:bindings>-->
+   <!-- Raise theEnumMemberSizeCap limit -->
+   <jxb:bindings >
+       <jxb:globalBindings typesafeEnumMaxMembers="2000"/>
+       
+   </jxb:bindings>
+
+</jxb:bindings>

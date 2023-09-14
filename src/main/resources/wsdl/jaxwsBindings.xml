@@ -1,0 +1,12 @@
+<jxws:bindings 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:jxws="https://jakarta.ee/xml/ns/jaxws"
+    wsdlLocation="https://webservices.netsuite.com/wsdl/v2023_1_0/netsuite.wsdl"
+    version="3.0">
+
+
+    <jxws:enableWrapperStyle>false</jxws:enableWrapperStyle>
+    <jxws:enableAsyncMapping>true</jxws:enableAsyncMapping>
+       
+
+</jxws:bindings>
